@@ -1,4 +1,4 @@
-# Hi I'm Ökkeş 👋
+<p align="center"># Hi I'm Ökkeş 👋</p>
 
 ## A Junior Frontend Developer
 
@@ -9,6 +9,7 @@
 ### Contact with Me :
 
 <a href="https://www.linkedin.com/in/okkes-akkurt/"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50" height="50" ></a>  <a href="https://discord.com/channels/@OkkesAkkurt#8810"><img src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232__340.png" width="50" height="50" ></a>
+* My Email --> okkesakkurt46@gmail.com
 
 
 ### Technologies :
@@ -18,8 +19,7 @@
 
 
 
-<!--Emoji -->
-:sparkling_heart: :sparkling_heart: :two_hearts:
+
 
 
 
