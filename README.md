@@ -3,15 +3,14 @@
 
 <p align="center"><h2>A Junior Frontend Developer</h2></p>
 
-<div align="center">
 * I'm currently learning React.js.
 * My Personal Page is here [Click it.](https://okkesakkurt.netlify.app/)
 * Ask me about Html, Css, JavaScript and React.js
-</div>
+
 
 ### Contact with Me :
 
-<a href="https://www.linkedin.com/in/okkes-akkurt/"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50" height="50" ></a>  <a href="https://discord.com/channels/@OkkesAkkurt#8810"><img src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232__340.png" width="50" height="50" ></a>
+<a href="https://www.linkedin.com/in/okkes-akkurt/" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50" height="50" ></a>  <a href="https://discord.com/channels/@OkkesAkkurt#8810" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232__340.png" width="50" height="50" ></a>
 * My Email --> okkesakkurt46@gmail.com
 
 
