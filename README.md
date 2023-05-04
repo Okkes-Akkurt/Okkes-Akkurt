@@ -1,14 +1,13 @@
-<p align="center"> <h1>Hi I'm Ökkeş 👋</h1> </p>
+<p align="center"><h1>Hi I'm Ökkeş 👋</h1></p>
   
 
+<p align="center"><h2>A Junior Frontend Developer</h2></p>
 
-<p align="center"> <h2>A Junior Frontend Developer</h2> </p>
-
-<p align="center">
+<div align="center">
 * I'm currently learning React.js.
 * My Personal Page is here [Click it.](https://okkesakkurt.netlify.app/)
 * Ask me about Html, Css, JavaScript and React.js
-</p>
+</div>
 
 ### Contact with Me :
 
