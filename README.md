@@ -1,7 +1,7 @@
 <p align="center"><h1>Hi I'm Ökkeş 👋</h1></p>
   
 
-<p align="center"><h2>A Junior Frontend Developer</h2></p>
+<p align="center"><h2></h2></p>
 
 * I'm currently learning React.js.
 * My Personal Page is here [Click it.](https://okkesakkurt.netlify.app/)
