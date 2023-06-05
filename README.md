@@ -11,7 +11,7 @@
 ### Contact with Me :
 
 <a href="https://www.linkedin.com/in/okkes-akkurt/" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50" height="50" ></a>  <a href="https://discord.com/channels/@OkkesAkkurt#8810" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/03/02/12/02/logo-6062232__340.png" width="50" height="50" ></a>
-* My Email --> okkesakkurt46@gmail.com
+* My Email -> okkesakkurt46@gmail.com
 
 
 ### Technologies :
