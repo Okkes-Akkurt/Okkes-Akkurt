@@ -3,7 +3,7 @@
 
  <!-- <p align="center"><h2></h2></p>
 
-* I'm currently learning React.js.
+* I'm currently learning Node.js.
 * My Personal Page is here [Click it.](https://okkesakkurt.netlify.app/)
 * Ask me about Html, Css, JavaScript and React.js
 
