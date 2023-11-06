@@ -1,7 +1,7 @@
 <p align="center"><h1>Hi I'm Ökkeş 👋</h1></p>
   
 
- <!-- <p align="center"><h2></h2></p>
+ <p align="center"><h2></h2></p>
 
 * I'm currently learning Node.js.
 * My Personal Page is here [Click it.](https://okkesakkurt.netlify.app/)
@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
