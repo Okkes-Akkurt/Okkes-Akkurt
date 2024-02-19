@@ -31,9 +31,10 @@
   </img>
 </div>
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okkes-akkurt&show_icons=true&locale=en&layout=compact" alt="okkes-akkurt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okkes-akkurt&show_icons=true&locale=en" alt="okkes-akkurt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okkes-akkurt&" alt="okkes-akkurt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okkes-akkurt&" alt="okkes-akkurt" /></p> 
+-->
