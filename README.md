@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dev.okkesakkurt@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1Rq4VVbEnHrCGi0c_n8FgieC0QyjxzEx-xVj7ds95Av8/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1nghQmBEMfzEPPuXFZUmd-k_MDaD0xE-0pmIwyUwtc9I/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
